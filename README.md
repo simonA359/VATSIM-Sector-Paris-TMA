@@ -38,19 +38,19 @@ Cartes pour De Gaulle APP et Orly APP. <br>__Ne pas utiliser hors de la simulati
 	+ LFPO VPE ILS **06 / 25**
 	
 	&nbsp;<ins>VILLACOUBLAY</ins>
-	+ LFPV Finale ILS **xx**<br>
+	+ LFPV Finale ILS **xx**<br><br>
 
 + **❑ REGIONS**
 	+ LFPG VPE Departs **08 / 09 / 26 / 27**
 	+ LFPG VPE ILS **08R / 09L / 26L / 27R**
 	+ LFPO VPE Departs **07 / 24**
-	+ LFPO VPE ILS **06 / 25**<br>
+	+ LFPO VPE ILS **06 / 25**<br><br>
 
 + **❑ ARTCC boundary**
 	+ TMA LFPG TMA Paris (Toutes Config)
 	+ TMA LFPG TMA Paris (Config **xx**)
 	+ TMA LFPG Zone Beauvais
-	+ TMA LFPO TMA Paris<br>
+	+ TMA LFPO TMA Paris<br><br>
 
 + **❑ ARTCC low boundary**
 	+ Tower CTR LFPG CTR Paris
