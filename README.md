@@ -13,11 +13,11 @@ Cartes pour De Gaulle APP et Orly APP. <br>__Ne pas utiliser hors de la simulati
 
 # Éléments Euroscope :
 
-+ ❑ GEO<br>
-	&nbsp;<u>LE BOURGET</u>
++ **❑ GEO**<br><br>
+	&nbsp;<ins>LE BOURGET</ins>
 	+ LFPB Finale ILS **xx**
 	
-	&nbsp;<u>CDG</u>
+	&nbsp;<ins>CDG</ins>
 	+ LFPG Finale ILS **xxx**
 	+ LFPG Trajectoires **xx**
 	+ LFPG Delimitations **xx**
@@ -25,32 +25,32 @@ Cartes pour De Gaulle APP et Orly APP. <br>__Ne pas utiliser hors de la simulati
 	+ LFPG Contraintes Beauvais
 	+ LFPG Point Merge KOLIV
 	
-	&nbsp;<u>TOUSSUS</u>
+	&nbsp;<ins>TOUSSUS</ins>
 	+ LFPN Finale ILS 25R
 	+ LFPN Finale RNP 07L
 	+ LFPN Finale VOR 07L
 	
-	&nbsp;<u>ORLY</u>
+	&nbsp;<ins>ORLY</ins>
 	+ LFPO Finale ILS **xx**
 	+ LFPO Limites EGA
 	+ LFPO Trajectoires **xx**
 	+ LFPO VPE Departs **07 / 24**
 	+ LFPO VPE ILS **06 / 25**
 	
-	&nbsp;<u>VILLACOUBLAY</u>
+	&nbsp;<ins>VILLACOUBLAY</ins>
 	+ LFPV Finale ILS **xx**<br>
 
-+ ❑ REGIONS
++ **❑ REGIONS**
 	+ LFPG VPE Departs **08 / 09 / 26 / 27**
 	+ LFPG VPE ILS **08R / 09L / 26L / 27R**
 	+ LFPO VPE Departs **07 / 24**
 	+ LFPO VPE ILS **06 / 25**<br>
 
-+ ❑ ARTCC boundary
++ **❑ ARTCC boundary**
 	+ TMA LFPG TMA Paris (Toutes Config)
 	+ TMA LFPG TMA Paris (Config **xx**)
 	+ TMA LFPG Zone Beauvais
 	+ TMA LFPO TMA Paris<br>
 
-+ ❑ ARTCC low boundary
++ **❑ ARTCC low boundary**
 	+ Tower CTR LFPG CTR Paris
