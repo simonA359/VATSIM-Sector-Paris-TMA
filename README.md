@@ -4,12 +4,12 @@ Cartes pour De Gaulle APP et Orly APP. <br>__Ne pas utiliser hors de la simulati
 
 # Cartes Disponibles
 
-| **Config de PG**  | LFPG_APP | LFPO_APP | LFPG_APP (+PO) |
+| **Config**  | LFPG_APP | LFPO_APP | LFPG_APP (+PO) |
 | ------------- | ------------- | ------------- | ------------- |
 | Ouest Lié  | Disponible  | Disponible  | Adaptée à VATSIM  |
 | Est Lié  | Disponible  | Disponible  | Adaptée à VATSIM  |
 | Ouest Inversé (PGW)  | Disponible  | Peu de données | Adaptée à VATSIM  |
-| Est Inversé (POW)  | Disponible  | -  | -  |
+| Est Inversé (PGE)  | Disponible  | -  | -  |
 
 # Éléments Euroscope :
 
