@@ -1,6 +1,7 @@
 # VATSIM Sector Paris TMA
 
-Cartes pour De Gaulle APP et Orly APP. <br>__Ne pas utiliser hors de la simulation sur VATSIM.__
+Fond de cartes pour De Gaulle APP et Orly APP. <br>
+__Ne pas utiliser hors de la simulation sur VATSIM.__
 
 # Installation Facile
 
@@ -18,10 +19,10 @@ Cartes pour De Gaulle APP et Orly APP. <br>__Ne pas utiliser hors de la simulati
 
 | **Config**  | LFPG_APP | LFPO_APP | LFPG_APP (+PO) |
 | ------------- | ------------- | ------------- | ------------- |
-| Ouest Lié  | Disponible  | Disponible  | Adaptée à VATSIM  |
-| Est Lié  | Disponible  | Disponible  | Adaptée à VATSIM  |
-| Ouest Inversé (PGW)  | Disponible  | Peu de données | Adaptée à VATSIM  |
-| Est Inversé (PGE)  | Disponible  | -  | -  |
+| Ouest Lié  | Disponible  | Disponible | Adaptée à VATSIM  |
+| Est Lié  | Disponible  | Disponible | Adaptée à VATSIM  |
+| Ouest Inversé (PGW)  | Disponible | Peu de données | Adaptée à VATSIM  |
+| Est Inversé (PGE)  | Disponible | -  | -  |
 
 # Éléments Euroscope :
 
