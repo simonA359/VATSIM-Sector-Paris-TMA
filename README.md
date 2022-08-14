@@ -1,6 +1,6 @@
 # VATSIM Sector Paris TMA
 
-Fond de cartes pour De Gaulle APP et Orly APP. <br>
+Fonds de carte pour De Gaulle APP et Orly APP. <br>
 __Ne pas utiliser hors de la simulation sur VATSIM.__
 
 # Installation Facile
@@ -24,7 +24,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 | Ouest Inversé (PGW)  | Disponible | Peu de données | Adaptée à VATSIM  |
 | Est Inversé (PGE)  | Disponible | -  | -  |
 
-# Éléments Euroscope :
+# Éléments Euroscope
 
 + **GEO**<br><br>
 	&nbsp;<ins>LE BOURGET</ins>
