@@ -24,7 +24,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 | Ouest Inversé (PGW)  | Disponible | Peu de données | Adaptée à VATSIM  |
 | Est Inversé (PGE)  | Disponible | -  | -  |
 
-# Éléments Euroscope
+# Eléments Euroscope
 
 + **GEO**<br><br>
 	&nbsp;<ins>LE BOURGET</ins>
