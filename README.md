@@ -14,10 +14,10 @@ Cartes pour De Gaulle APP et Orly APP. <br>__Ne pas utiliser hors de la simulati
 # Éléments Euroscope :
 
 + ❑ GEO<br>
-		LE BOURGET
+	&nbsp;<u>LE BOURGET</u>
 	+ LFPB Finale ILS **xx**
 	
-		CDG
+	&nbsp;<u>CDG</u>
 	+ LFPG Finale ILS **xxx**
 	+ LFPG Trajectoires **xx**
 	+ LFPG Delimitations **xx**
@@ -25,19 +25,19 @@ Cartes pour De Gaulle APP et Orly APP. <br>__Ne pas utiliser hors de la simulati
 	+ LFPG Contraintes Beauvais
 	+ LFPG Point Merge KOLIV
 	
-		TOUSSUS
+	&nbsp;<u>TOUSSUS</u>
 	+ LFPN Finale ILS 25R
 	+ LFPN Finale RNP 07L
 	+ LFPN Finale VOR 07L
 	
-		ORLY
+	&nbsp;<u>ORLY</u>
 	+ LFPO Finale ILS **xx**
 	+ LFPO Limites EGA
 	+ LFPO Trajectoires **xx**
 	+ LFPO VPE Departs **07 / 24**
 	+ LFPO VPE ILS **06 / 25**
 	
-		VILLACOUBLAY
+	&nbsp;<u>VILLACOUBLAY</u>
 	+ LFPV Finale ILS **xx**<br>
 
 + ❑ REGIONS
