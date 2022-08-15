@@ -1,0 +1,90 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:TMA LFPO TMA Paris:
+Fixes:ABORO:symbol
+Fixes:ADADA:symbol
+Fixes:AGOPA:symbol
+Fixes:ATREX:symbol
+Fixes:BANOX:symbol
+Fixes:BATAG:symbol
+Fixes:BAXIR:symbol
+Fixes:BUBLI:symbol
+Fixes:DIKOL:symbol
+Fixes:EBOMA:symbol
+Fixes:EDOXA:symbol
+Fixes:EPURI:symbol
+Fixes:ERIXU:symbol
+Fixes:IN07L:symbol
+Fixes:LALUX:symbol
+Fixes:LATRA:symbol
+Fixes:LORNI:symbol
+Fixes:MOLBA:symbol
+Fixes:MOPAR:symbol
+Fixes:NERKI:symbol
+Fixes:NURMO:symbol
+Fixes:OBAMO:symbol
+Fixes:ODEBU:symbol
+Fixes:ODILO:symbol
+Fixes:OKABO:symbol
+Fixes:OKASI:symbol
+Fixes:OKIPA:symbol
+Fixes:OPALE:symbol
+Fixes:PEKIM:symbol
+Fixes:PILUL:symbol
+Fixes:PO181:symbol
+Fixes:RANUX:symbol
+Fixes:SOTIP:symbol
+Fixes:URELO:symbol
+Fixes:VEBEK:symbol
+Geo:LFPG Zone Paris P 23:
+Geo:LFPN Finale RNP 07L:
+Geo:LFPN Finale VOR 07L:
+Geo:LFPO Finale ILS 06:
+Geo:LFPO Limites EGA:
+Geo:LFPO Trajectoires EI:
+Geo:LFPO VPE Departs 07:
+Geo:LFPO VPE ILS 06:
+Geo:LFPV Finale ILS 09:
+Runways:LFPG 08L-26R:centerline
+Runways:LFPG 09R-27L:centerline
+Runways:LFPO 02-20:centerline
+Runways:LFPO 06-24:centerline
+Runways:LFPO 07-25:centerline
+Runways:LFPV 09-27:centerline
+VORs:BOV:symbol
+VORs:BT:symbol
+VORs:CGN:symbol
+VORs:CLM:symbol
+VORs:CTL:symbol
+VORs:EPR:symbol
+VORs:EVX:symbol
+VORs:LGL:symbol
+VORs:MLN:symbol
+VORs:PGS:symbol
+VORs:PON:symbol
+VORs:RBT:symbol
+VORs:TSU:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:100
+ABOVE:24000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance Approach
+WINDOWAREA:48.279382:0.388121:49.612716:4.219973
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:1
+PLUGIN:CoFrance:FILTABOVE:24000
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:1
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2

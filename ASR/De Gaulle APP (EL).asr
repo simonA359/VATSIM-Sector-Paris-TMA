@@ -1,0 +1,118 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:TMA LFPG TMA Paris (Config EL):
+ARTCC boundary:TMA LFPG Zone Beauvais:
+Fixes:ABOBO:symbol
+Fixes:ADADA:symbol
+Fixes:AGOPA:symbol
+Fixes:ALIMO:symbol
+Fixes:ATREX:symbol
+Fixes:BANOX:symbol
+Fixes:BAVOL:symbol
+Fixes:BAXIR:symbol
+Fixes:BEKOS:symbol
+Fixes:BUBLI:symbol
+Fixes:CREIL:symbol
+Fixes:DEVIM:symbol
+Fixes:DIKOL:symbol
+Fixes:EBOMA:symbol
+Fixes:EDOXA:symbol
+Fixes:EPURI:symbol
+Fixes:ERIXU:symbol
+Fixes:GILTO:symbol
+Fixes:INKUD:symbol
+Fixes:IPNOB:symbol
+Fixes:KELUD:symbol
+Fixes:KOLIV:symbol
+Fixes:LALUX:symbol
+Fixes:LANVI:symbol
+Fixes:LAPAX:symbol
+Fixes:LASIV:symbol
+Fixes:LATRA:symbol
+Fixes:LORNI:symbol
+Fixes:LUPAM:symbol
+Fixes:MOLBA:symbol
+Fixes:MOPAR:symbol
+Fixes:NEPAR:symbol
+Fixes:NERKI:symbol
+Fixes:NIPOR:symbol
+Fixes:NURMO:symbol
+Fixes:OBOBI:symbol
+Fixes:ODEBU:symbol
+Fixes:ODILO:symbol
+Fixes:OKABO:symbol
+Fixes:OKASI:symbol
+Fixes:OKIPA:symbol
+Fixes:OPALE:symbol
+Fixes:OSTIP:symbol
+Fixes:PEKIM:symbol
+Fixes:PILUL:symbol
+Fixes:RANUX:symbol
+Fixes:SOTIP:symbol
+Fixes:URELO:symbol
+Fixes:VEBEK:symbol
+Geo:LFPB Finale ILS 07:
+Geo:LFPG Contraintes Orly (EL):
+Geo:LFPG Delimitations EL:
+Geo:LFPG Finale ILS 08R:
+Geo:LFPG Finale ILS 09L:
+Geo:LFPG Point Merge KOLIV:
+Geo:LFPG Restriction Survol Villepinte:
+Geo:LFPG Trajectoires EL:
+Geo:LFPG Zone Paris P 23:
+NDBs:CVT:symbol
+NDBs:HOL:symbol
+NDBs:POY:symbol
+NDBs:VAT:symbol
+Regions:LFPG VPE Departs 08:polygon
+Regions:LFPG VPE Departs 09:polygon
+Regions:LFPG VPE ILS 08R:polygon
+Regions:LFPG VPE ILS 09L:polygon
+Runways:LFPB 09-27:centerline
+Runways:LFPG 08L-26R:centerline
+Runways:LFPG 09R-27L:centerline
+Runways:LFPO 02-20:centerline
+Runways:LFPO 06-24:centerline
+Runways:LFPO 07-25:centerline
+Runways:LFPV 09-27:centerline
+VORs:BOV:symbol
+VORs:BRY:symbol
+VORs:BSN:symbol
+VORs:CAD:symbol
+VORs:CAV:symbol
+VORs:CLM:symbol
+VORs:CTL:symbol
+VORs:EPR:symbol
+VORs:EVX:symbol
+VORs:LGL:symbol
+VORs:MLN:symbol
+VORs:MTD:symbol
+VORs:PON:symbol
+VORs:PTV:symbol
+VORs:RBT:symbol
+VORs:TRO:symbol
+VORs:TSU:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:100
+ABOVE:24000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance Approach
+WINDOWAREA:48.279382:0.388121:49.612716:4.219973
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:1
+PLUGIN:CoFrance:FILTABOVE:24000
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:1
+PLUGIN:CoFrance:VV:0
+PLUGIN:CoFrance:VVTIME:2
