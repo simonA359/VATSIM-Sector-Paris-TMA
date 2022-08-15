@@ -75,10 +75,28 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 # Captures d'écran
 
 De Gaulle APP config EI :
-![De Gaulle APP (EI)](https://user-images.githubusercontent.com/85018190/184677655-d8978676-a4ed-496c-935b-e33b06a7ec72.jpg)
+![De Gaulle APP (EI)](https://user-images.githubusercontent.com/85018190/184678262-e7921820-a069-4054-b04a-d6d0aac46eaa.jpg)
 
 De Gaulle APP config EL :
-![De Gaulle APP (EL)](https://user-images.githubusercontent.com/85018190/184677712-2b7e4eb3-3b60-4e99-9e23-8805c142594d.jpg)
+![De Gaulle APP (EL)](https://user-images.githubusercontent.com/85018190/184678278-3a95f852-e274-4d36-b554-3fe74266802c.jpg)
+
+De Gaulle APP config WI :
+![De Gaulle APP (WI)](https://user-images.githubusercontent.com/85018190/184678393-22726860-88b2-4372-8635-d22f870e5cf5.jpg)
+
+De Gaulle APP config WL :
+![De Gaulle APP (WL)](https://user-images.githubusercontent.com/85018190/184678414-777d5f06-1f7c-42f5-8979-8f4a34b3bfd4.jpg)
+
+Orly APP config EI :
+![Orly APP (EI)](https://user-images.githubusercontent.com/85018190/184678423-5f77cf17-7bce-45de-be88-4c1754a9ce89.jpg)
+
+Orly APP config EL :
+![Orly APP (EL)](https://user-images.githubusercontent.com/85018190/184678429-05d5a2af-ff7a-47fe-82f5-295fbfc50b8d.jpg)
+
+Orly APP config WI :
+![Orly APP (WI)](https://user-images.githubusercontent.com/85018190/184678436-36026714-90ac-4cfd-b692-c3dd4ca0e901.jpg)
+
+Orly APP config WL :
+![Orly APP (WL)](https://user-images.githubusercontent.com/85018190/184678446-a90da582-169c-40c4-b573-022a0aeed1fc.jpg)
 
 # TODO
 
