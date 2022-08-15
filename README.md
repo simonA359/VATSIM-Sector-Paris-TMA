@@ -72,8 +72,15 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 + **ARTCC low boundary**
 	+ Tower CTR LFPG CTR Paris<br>
 
+# Captures d'écran
+
+De Gaulle APP config EI :
+![De Gaulle APP (EI)](https://user-images.githubusercontent.com/85018190/184677655-d8978676-a4ed-496c-935b-e33b06a7ec72.jpg)
+
+De Gaulle APP config EL :
+![De Gaulle APP (EL)](https://user-images.githubusercontent.com/85018190/184677712-2b7e4eb3-3b60-4e99-9e23-8805c142594d.jpg)
+
 # TODO
 
 + Finales Beauvais
 + Finales Orly ILS 02 & RNP 20
-+ Orly Délimitations EL/WI (PGE)
