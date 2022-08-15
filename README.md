@@ -70,4 +70,10 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ TMA LFPO TMA Paris<br><br>
 
 + **ARTCC low boundary**
-	+ Tower CTR LFPG CTR Paris
+	+ Tower CTR LFPG CTR Paris<br>
+
+# TODO
+
++ Finales Beauvais
++ Finales Orly ILS 02 & RNP 20
++ Orly Délimitations EL/WI (PGE)
