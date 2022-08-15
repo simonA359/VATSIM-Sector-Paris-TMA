@@ -19,10 +19,10 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 
 | **Config**  | LFPG_APP | LFPO_APP | LFPG_APP (+PO) |
 | ------------- | ------------- | ------------- | ------------- |
-| Ouest Lié  | Disponible  | Disponible | Adaptée à VATSIM  |
-| Est Lié  | Disponible  | Disponible | Adaptée à VATSIM  |
-| Ouest Inversé (PGW)  | Disponible | Peu de données | Adaptée à VATSIM  |
-| Est Inversé (PGE)  | Disponible | -  | -  |
+| Ouest Lié  | Disponible  | Disponible | Adaptée à VATSIM |
+| Est Lié  | Disponible  | Disponible | Adaptée à VATSIM |
+| Ouest Inversé (PGW)  | Disponible | Peu de données | Adaptée à VATSIM |
+| Est Inversé (PGE)  | Disponible | Aucune donnée | Adaptée à VATSIM |
 
 # Eléments Euroscope
 
@@ -31,12 +31,14 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ LFPB Finale ILS **xx**
 	
 	&nbsp;<ins>CDG</ins>
-	+ LFPG Finale ILS **xxx**
-	+ LFPG Trajectoires **xx**
-	+ LFPG Delimitations **xx**
 	+ LFPG Contraintes Orly (**xx**)
 	+ LFPG Contraintes Beauvais
+	+ LFPG Delimitations **xx**
+	+ LFPG Finale ILS **xxx**
 	+ LFPG Point Merge KOLIV
+	+ LFPG Restriction Survol Villepinte
+	+ LFPG Trajectoires **xx**
+	+ LFPG Zone Paris P 23
 	
 	&nbsp;<ins>TOUSSUS</ins>
 	+ LFPN Finale ILS 25R
@@ -44,6 +46,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ LFPN Finale VOR 07L
 	
 	&nbsp;<ins>ORLY</ins>
+	+ LFPO Delimitations WL
 	+ LFPO Finale ILS **xx**
 	+ LFPO Limites EGA
 	+ LFPO Trajectoires **xx**
@@ -63,6 +66,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ TMA LFPG TMA Paris (Toutes Config)
 	+ TMA LFPG TMA Paris (Config **xx**)
 	+ TMA LFPG Zone Beauvais
+	+ TMA LFPO Delimitations WL
 	+ TMA LFPO TMA Paris<br><br>
 
 + **ARTCC low boundary**
