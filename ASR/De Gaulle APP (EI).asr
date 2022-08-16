@@ -55,7 +55,7 @@ Fixes:SOTIP:symbol
 Fixes:URELO:symbol
 Fixes:VEBEK:symbol
 Geo:LFPB Finale ILS 07:
-Geo:LFPG Contraintes Orly (EL):
+Geo:LFPG Contraintes Orly (EI):
 Geo:LFPG Delimitations EI:
 Geo:LFPG Finale ILS 08R:
 Geo:LFPG Finale ILS 09L:
@@ -111,7 +111,7 @@ TAGFAMILY:CoFrance Approach
 WINDOWAREA:48.279382:0.388121:49.612716:4.219973
 PLUGIN:CoFrance:APP:1
 PLUGIN:CoFrance:FILT:1
-PLUGIN:CoFrance:FILTABOVE:24000
+PLUGIN:CoFrance:FILTABOVE:24500
 PLUGIN:CoFrance:FILTBELOW:0
 PLUGIN:CoFrance:RAD:1
 PLUGIN:CoFrance:VV:0
