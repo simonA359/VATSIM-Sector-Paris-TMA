@@ -1,6 +1,6 @@
 # VATSIM Sector Paris TMA
 
-Fonds de carte pour De Gaulle APP et Orly APP. <br>
+Fonds de carte (expérimentaux) pour De Gaulle APP et Orly APP. <br>
 __Ne pas utiliser hors de la simulation sur VATSIM.__
 
 # Installation Facile
