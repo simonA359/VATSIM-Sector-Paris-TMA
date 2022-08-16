@@ -5,6 +5,7 @@ SECTORFILE:
 SECTORTITLE:
 ARTCC boundary:TMA LFPG TMA Paris (Toutes Config):
 ARTCC boundary:TMA LFPG Zone Beauvais:
+Fixes:ABORO:symbol
 Fixes:ADADA:symbol
 Fixes:AGOPA:symbol
 Fixes:ALIMO:symbol
@@ -23,6 +24,7 @@ Fixes:EDOXA:symbol
 Fixes:EPURI:symbol
 Fixes:ERIXU:symbol
 Fixes:GILTO:symbol
+Fixes:IN07L:symbol
 Fixes:INKUD:symbol
 Fixes:IPNOB:symbol
 Fixes:KOLIV:symbol
@@ -39,6 +41,7 @@ Fixes:NEPAR:symbol
 Fixes:NERKI:symbol
 Fixes:NIPOR:symbol
 Fixes:NURMO:symbol
+Fixes:OBAMO:symbol
 Fixes:OBOBI:symbol
 Fixes:ODEBU:symbol
 Fixes:ODILO:symbol
@@ -49,25 +52,24 @@ Fixes:OPALE:symbol
 Fixes:PEKIM:symbol
 Fixes:PILUL:symbol
 Fixes:PIVER:symbol
-Fixes:PN619:symbol
-Fixes:PO183:symbol
+Fixes:PO181:symbol
 Fixes:RANUX:symbol
 Fixes:SOTIP:symbol
 Fixes:URELO:symbol
 Fixes:VALPO:symbol
-Fixes:VASOL:symbol
 Fixes:VEBEK:symbol
 Fixes:VEMIL:symbol
 Geo:LFPB Finale ILS 27:
-Geo:LFPG (+PO) Trajectoires WL:
+Geo:LFPG (+PO) Trajectoires WI:
 Geo:LFPG Finale ILS 26L:
 Geo:LFPG Finale ILS 27R:
 Geo:LFPG Point Merge KOLIV:
 Geo:LFPG Restriction Survol Villepinte:
 Geo:LFPG Zone Paris P 23:
-Geo:LFPN Finale ILS 25R:
-Geo:LFPO Finale ILS 25:
-Geo:LFPV Finale ILS 27:
+Geo:LFPN Finale RNP 07L:
+Geo:LFPN Finale VOR 07L:
+Geo:LFPO Finale ILS 06:
+Geo:LFPV Finale ILS 09:
 NDBs:CVT:symbol
 NDBs:HOL:symbol
 NDBs:VAT:symbol
@@ -75,8 +77,8 @@ Regions:LFPG VPE Departs 26:polygon
 Regions:LFPG VPE Departs 27:polygon
 Regions:LFPG VPE ILS 26L:polygon
 Regions:LFPG VPE ILS 27R:polygon
-Regions:LFPO VPE Departs 24:polygon
-Regions:LFPO VPE ILS 25:polygon
+Regions:LFPO VPE Departs 07:polygon
+Regions:LFPO VPE ILS 06:polygon
 Runways:LFPB 09-27:centerline
 Runways:LFPG 08L-26R:centerline
 Runways:LFPG 09R-27L:centerline

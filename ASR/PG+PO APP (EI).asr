@@ -25,6 +25,7 @@ Fixes:ERIXU:symbol
 Fixes:GILTO:symbol
 Fixes:INKUD:symbol
 Fixes:IPNOB:symbol
+Fixes:KELUD:symbol
 Fixes:KOLIV:symbol
 Fixes:LALUX:symbol
 Fixes:LANVI:symbol
@@ -32,7 +33,6 @@ Fixes:LASIV:symbol
 Fixes:LATRA:symbol
 Fixes:LORNI:symbol
 Fixes:LUPAM:symbol
-Fixes:MOBRO:symbol
 Fixes:MOLBA:symbol
 Fixes:MOPAR:symbol
 Fixes:NEPAR:symbol
@@ -48,20 +48,17 @@ Fixes:OKIPA:symbol
 Fixes:OPALE:symbol
 Fixes:PEKIM:symbol
 Fixes:PILUL:symbol
-Fixes:PIVER:symbol
 Fixes:PN619:symbol
 Fixes:PO183:symbol
 Fixes:RANUX:symbol
 Fixes:SOTIP:symbol
 Fixes:URELO:symbol
-Fixes:VALPO:symbol
 Fixes:VASOL:symbol
 Fixes:VEBEK:symbol
-Fixes:VEMIL:symbol
-Geo:LFPB Finale ILS 27:
-Geo:LFPG (+PO) Trajectoires WL:
-Geo:LFPG Finale ILS 26L:
-Geo:LFPG Finale ILS 27R:
+Geo:LFPB Finale ILS 07:
+Geo:LFPG (+PO) Trajectoires EI:
+Geo:LFPG Finale ILS 08R:
+Geo:LFPG Finale ILS 09L:
 Geo:LFPG Point Merge KOLIV:
 Geo:LFPG Restriction Survol Villepinte:
 Geo:LFPG Zone Paris P 23:
@@ -71,10 +68,10 @@ Geo:LFPV Finale ILS 27:
 NDBs:CVT:symbol
 NDBs:HOL:symbol
 NDBs:VAT:symbol
-Regions:LFPG VPE Departs 26:polygon
-Regions:LFPG VPE Departs 27:polygon
-Regions:LFPG VPE ILS 26L:polygon
-Regions:LFPG VPE ILS 27R:polygon
+Regions:LFPG VPE Departs 08:polygon
+Regions:LFPG VPE Departs 09:polygon
+Regions:LFPG VPE ILS 08R:polygon
+Regions:LFPG VPE ILS 09L:polygon
 Regions:LFPO VPE Departs 24:polygon
 Regions:LFPO VPE ILS 25:polygon
 Runways:LFPB 09-27:centerline
@@ -86,6 +83,7 @@ Runways:LFPO 07-25:centerline
 Runways:LFPV 09-27:centerline
 VORs:BOV:symbol
 VORs:BRY:symbol
+VORs:BSN:symbol
 VORs:CAD:symbol
 VORs:CAV:symbol
 VORs:CLM:symbol
