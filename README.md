@@ -46,7 +46,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ LFPN Finale VOR 07L
 	
 	&nbsp;<ins>ORLY</ins>
-	+ LFPO Delimitations WL
+	+ LFPO Delimitations **WL / EL**
 	+ LFPO Finale ILS **xx**
 	+ LFPO Limites EGA
 	+ LFPO Trajectoires **xx**
