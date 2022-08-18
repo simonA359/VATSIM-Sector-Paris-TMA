@@ -111,6 +111,3 @@ De Gaulle + Orly combinés config WL
 ![WL2](https://user-images.githubusercontent.com/85018190/184948346-fd8f2121-dc82-48d8-b399-b680fa2021f5.png)
 
 # TODO
-
-+ Finales Beauvais
-+ Finales Orly ILS 02 & RNP 20
