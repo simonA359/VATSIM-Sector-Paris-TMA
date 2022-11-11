@@ -21,8 +21,8 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 | ------------- | ------------- | ------------- | ------------- |
 | Ouest Lié  | Disponible  | Disponible | Adaptée à VATSIM |
 | Est Lié  | Disponible  | Disponible | Adaptée à VATSIM |
-| Ouest Inversé (PGW)  | Disponible | Peu de données | Adaptée à VATSIM |
-| Est Inversé (PGE)  | Disponible | Aucune données | Adaptée à VATSIM |
+| Ouest Inversé (IPGW)  | Disponible | Peu de données | Adaptée à VATSIM |
+| Est Inversé (IPOW)  | Disponible | Aucune données | Adaptée à VATSIM |
 
 # Eléments Euroscope
 
@@ -98,13 +98,13 @@ Orly APP config WI :
 Orly APP config WL :
 ![Orly APP (WL)](https://user-images.githubusercontent.com/85018190/184678446-a90da582-169c-40c4-b573-022a0aeed1fc.jpg)
 
-De Gaulle + Orly combinés config EI
+De Gaulle + Orly combinés config IPOW
 ![EI2](https://user-images.githubusercontent.com/85018190/184948312-b2c27e36-55d1-476f-b714-5e055324ea1b.png)
 
 De Gaulle + Orly combinés config EL
 ![EL2](https://user-images.githubusercontent.com/85018190/184948320-da5d29d0-39e5-405b-859a-bc030a5eee5c.png)
 
-De Gaulle + Orly combinés config WI
+De Gaulle + Orly combinés config IPGW
 ![WI2](https://user-images.githubusercontent.com/85018190/184948336-07f880ab-fa86-4d74-a017-1e7d06a7066d.png)
 
 De Gaulle + Orly combinés config WL
