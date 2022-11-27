@@ -76,10 +76,6 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ Tower CTR LFPG CTR Paris<br>
 
 # Captures d'écran
-
-<table>
-  <tr>
-	  <td><img src="[img2.png](https://user-images.githubusercontent.com/85018190/204157866-f02ef595-7a2c-463b-ba30-9736340c1759.jpg)" alt="2" width = 360px height = 640px></td>
-   </tr> 
-  </tr>
-</table>
+| WL | IPGW | EL | IPOW |
+| ------------- | ------------- | ------------- | ------------- |
+| ![De Gaulle APP (WL)](https://user-images.githubusercontent.com/85018190/204157986-b11a34f2-8001-4ad6-8f09-f8af96c6e43e.jpg) | ![De Gaulle APP (IPGW)](https://user-images.githubusercontent.com/85018190/204157992-5898a274-2021-4d13-a0a0-43c26a16c050.jpg) | ![De Gaulle APP (EL)](https://user-images.githubusercontent.com/85018190/204158001-239a0aa7-6e55-4a13-959a-9a34f3e98781.jpg)| ![De Gaulle APP (IPOW)](https://user-images.githubusercontent.com/85018190/204158008-56414ae2-7268-4565-ad40-70f24c4be071.jpg)|
