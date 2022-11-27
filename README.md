@@ -1,4 +1,4 @@
-**# VATSIM Sector Paris TMA**
+# VATSIM Sector Paris TMA
 
 Fonds de carte (expérimentaux) pour De Gaulle APP et Orly APP. <br>
 __Ne pas utiliser hors de la simulation sur VATSIM.__
