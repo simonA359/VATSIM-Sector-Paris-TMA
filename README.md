@@ -77,12 +77,11 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 
 # Captures d'écran
 
-<details><summary>De Gaulle APP</summary>
-![De Gaulle](https://user-images.githubusercontent.com/85018190/204157052-89d26b11-df75-4a66-a98e-c2e7380e7926.jpg)
-</details>
-<details><summary>De Gaulle + Orly APP</summary>
-![PG+PO](https://user-images.githubusercontent.com/85018190/204157083-1f1216c6-ede2-490a-a57d-4dce85695ef4.jpg)
-</details>
-<details><summary>Orly APP</summary>
-![Orly](https://user-images.githubusercontent.com/85018190/204157085-24a89c05-0e0e-4d53-a7f0-b0ae81fb06de.jpg)
-</details>
+<table>
+  <tr>
+    <td>![De Gaulle APP (WL)](https://user-images.githubusercontent.com/85018190/204157866-f02ef595-7a2c-463b-ba30-9736340c1759.jpg)</td>
+
+    <td>![De Gaulle APP (EL)](https://user-images.githubusercontent.com/85018190/204157871-3bc8933f-5d77-4136-89b8-9c85280d4150.jpg)</td>
+   </tr> 
+  </tr>
+</table>
