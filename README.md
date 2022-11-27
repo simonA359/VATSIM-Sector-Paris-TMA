@@ -79,9 +79,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 
 <table>
   <tr>
-    <td>![De Gaulle APP (WL)](https://user-images.githubusercontent.com/85018190/204157866-f02ef595-7a2c-463b-ba30-9736340c1759.jpg)</td>
-
-    <td>![De Gaulle APP (EL)](https://user-images.githubusercontent.com/85018190/204157871-3bc8933f-5d77-4136-89b8-9c85280d4150.jpg)</td>
+	  <td><img src="[img2.png](https://user-images.githubusercontent.com/85018190/204157866-f02ef595-7a2c-463b-ba30-9736340c1759.jpg)" alt="2" width = 360px height = 640px></td>
    </tr> 
   </tr>
 </table>
