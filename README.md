@@ -54,7 +54,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ LFPO VPE ILS **06 / 25**
 	
 	&nbsp;<ins>VILLACOUBLAY</ins>
-	+ LFPV Finale ILS **xx**<br><br>
+	+ LFPV Finale ILS **xx**<br>
 	
 	&nbsp;<ins>BEAUVAIS</ins>
 	+ LFOB Finale ILS **xx**<br><br>
@@ -78,17 +78,11 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 # Captures d'écran
 
 <details><summary>De Gaulle APP</summary>
-<p>
 ![De Gaulle](https://user-images.githubusercontent.com/85018190/204157052-89d26b11-df75-4a66-a98e-c2e7380e7926.jpg)
-</p>
 </details>
 <details><summary>De Gaulle + Orly APP</summary>
-<p>
 ![PG+PO](https://user-images.githubusercontent.com/85018190/204157083-1f1216c6-ede2-490a-a57d-4dce85695ef4.jpg)
-</p>
 </details>
 <details><summary>Orly APP</summary>
-<p>
 ![Orly](https://user-images.githubusercontent.com/85018190/204157085-24a89c05-0e0e-4d53-a7f0-b0ae81fb06de.jpg)
-</p>
 </details>
