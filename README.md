@@ -26,11 +26,11 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 
 ## Eléments disponibles
 
-+ **GEO**<br>
-	&nbsp;<ins>LE BOURGET</ins>
++ <ins>**GEO**</ins><br>
+	LE BOURGET
 	+ LFPB Finale ILS **xx**
 	
-	&nbsp;<ins>CDG</ins>
+	CDG
 	+ LFPG Contraintes Orly (**xx**)
 	+ LFPG Contraintes Beauvais
 	+ LFPG Delimitations **xx**
@@ -40,12 +40,12 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ LFPG Trajectoires **xx**
 	+ LFPG Zone Paris P 23
 	
-	&nbsp;<ins>TOUSSUS</ins>
+	TOUSSUS
 	+ LFPN Finale ILS 25R
 	+ LFPN Finale RNP 07L
 	+ LFPN Finale VOR 07L
 	
-	&nbsp;<ins>ORLY</ins>
+	ORLY
 	+ LFPO Delimitations **WL / EL**
 	+ LFPO Finale ILS **xx**
 	+ LFPO Limites EGA
@@ -53,26 +53,26 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ LFPO VPE Departs **07 / 24**
 	+ LFPO VPE ILS **06 / 25**
 	
-	&nbsp;<ins>VILLACOUBLAY</ins>
+	VILLACOUBLAY
 	+ LFPV Finale ILS **xx**
 	
-	&nbsp;<ins>BEAUVAIS</ins>
+	BEAUVAIS
 	+ LFOB Finale ILS **xx**<br>
 
-+ **REGIONS**
++ <ins>**REGIONS**</ins>
 	+ LFPG VPE Departs **08 / 09 / 26 / 27**
 	+ LFPG VPE ILS **08R / 09L / 26L / 27R**
 	+ LFPO VPE Departs **07 / 24**
 	+ LFPO VPE ILS **06 / 25**<br><br>
 
-+ **ARTCC boundary**
++ <ins>**ARTCC boundary**</ins>
 	+ TMA LFPG TMA Paris (Toutes Config)
 	+ TMA LFPG TMA Paris (Config **xx**)
 	+ TMA LFPG Zone Beauvais
 	+ TMA LFPO Delimitations WL
 	+ TMA LFPO TMA Paris<br><br>
 
-+ **ARTCC low boundary**
++ <ins>**ARTCC low boundary**</ins>
 	+ Tower CTR LFPG CTR Paris<br>
 
 # Captures d'écran
