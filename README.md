@@ -1,4 +1,4 @@
-# VATSIM Sector Paris TMA
+**# VATSIM Sector Paris TMA**
 
 Fonds de carte (expérimentaux) pour De Gaulle APP et Orly APP. <br>
 __Ne pas utiliser hors de la simulation sur VATSIM.__
@@ -26,7 +26,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 
 # Eléments Euroscope
 
-+ **GEO**<br><br>
++ **GEO**<br>
 	&nbsp;<ins>LE BOURGET</ins>
 	+ LFPB Finale ILS **xx**
 	
@@ -54,10 +54,10 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ LFPO VPE ILS **06 / 25**
 	
 	&nbsp;<ins>VILLACOUBLAY</ins>
-	+ LFPV Finale ILS **xx**<br>
+	+ LFPV Finale ILS **xx**
 	
 	&nbsp;<ins>BEAUVAIS</ins>
-	+ LFOB Finale ILS **xx**<br><br>
+	+ LFOB Finale ILS **xx**<br>
 
 + **REGIONS**
 	+ LFPG VPE Departs **08 / 09 / 26 / 27**

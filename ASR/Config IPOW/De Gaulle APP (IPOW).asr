@@ -71,8 +71,12 @@ Regions:LFPG VPE Departs 08:polygon
 Regions:LFPG VPE Departs 09:polygon
 Regions:LFPG VPE ILS 08R:polygon
 Regions:LFPG VPE ILS 09L:polygon
+Runways:LFPB 03-21:centerline
+Runways:LFPB 07-25:centerline
 Runways:LFPB 09-27:centerline
 Runways:LFPG 08L-26R:centerline
+Runways:LFPG 08R-26L:centerline
+Runways:LFPG 09L-27R:centerline
 Runways:LFPG 09R-27L:centerline
 Runways:LFPO 02-20:centerline
 Runways:LFPO 06-24:centerline
