@@ -55,6 +55,9 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	
 	&nbsp;<ins>VILLACOUBLAY</ins>
 	+ LFPV Finale ILS **xx**<br><br>
+	
+	&nbsp;<ins>BEAUVAIS</ins>
+	+ LFOB Finale ILS **xx**<br><br>
 
 + **REGIONS**
 	+ LFPG VPE Departs **08 / 09 / 26 / 27**
@@ -74,40 +77,18 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 
 # Captures d'écran
 
-De Gaulle APP config EI :
-![EI](https://user-images.githubusercontent.com/85018190/184948069-21a6eca7-17d7-430a-ab14-77108ee150a3.png)
-
-De Gaulle APP config EL :
-![EL](https://user-images.githubusercontent.com/85018190/184948079-2dd414dc-362b-4d68-bf10-a69ec8c19102.png)
-
-De Gaulle APP config WI :
-![WI](https://user-images.githubusercontent.com/85018190/184948085-7793697c-f4fb-4fc2-8d54-8ea2f000c9c2.png)
-
-De Gaulle APP config WL :
-![WL](https://user-images.githubusercontent.com/85018190/184948102-92d24585-f0ba-44d2-8d41-5612e49e0f01.png)
-
-Orly APP config EI :
-![Orly APP (EI)](https://user-images.githubusercontent.com/85018190/184678423-5f77cf17-7bce-45de-be88-4c1754a9ce89.jpg)
-
-Orly APP config EL :
-![Orly APP (EL)](https://user-images.githubusercontent.com/85018190/184678429-05d5a2af-ff7a-47fe-82f5-295fbfc50b8d.jpg)
-
-Orly APP config WI :
-![Orly APP (WI)](https://user-images.githubusercontent.com/85018190/184678436-36026714-90ac-4cfd-b692-c3dd4ca0e901.jpg)
-
-Orly APP config WL :
-![Orly APP (WL)](https://user-images.githubusercontent.com/85018190/184678446-a90da582-169c-40c4-b573-022a0aeed1fc.jpg)
-
-De Gaulle + Orly combinés config IPOW
-![EI2](https://user-images.githubusercontent.com/85018190/184948312-b2c27e36-55d1-476f-b714-5e055324ea1b.png)
-
-De Gaulle + Orly combinés config EL
-![EL2](https://user-images.githubusercontent.com/85018190/184948320-da5d29d0-39e5-405b-859a-bc030a5eee5c.png)
-
-De Gaulle + Orly combinés config IPGW
-![WI2](https://user-images.githubusercontent.com/85018190/184948336-07f880ab-fa86-4d74-a017-1e7d06a7066d.png)
-
-De Gaulle + Orly combinés config WL
-![WL2](https://user-images.githubusercontent.com/85018190/184948346-fd8f2121-dc82-48d8-b399-b680fa2021f5.png)
-
-# TODO
+<details><summary>De Gaulle APP</summary>
+<p>
+![De Gaulle](https://user-images.githubusercontent.com/85018190/204157052-89d26b11-df75-4a66-a98e-c2e7380e7926.jpg)
+</p>
+</details>
+<details><summary>De Gaulle + Orly APP</summary>
+<p>
+![PG+PO](https://user-images.githubusercontent.com/85018190/204157083-1f1216c6-ede2-490a-a57d-4dce85695ef4.jpg)
+</p>
+</details>
+<details><summary>Orly APP</summary>
+<p>
+![Orly](https://user-images.githubusercontent.com/85018190/204157085-24a89c05-0e0e-4d53-a7f0-b0ae81fb06de.jpg)
+</p>
+</details>
