@@ -3,7 +3,7 @@
 Fonds de carte (expérimentaux) pour De Gaulle APP et Orly APP. <br>
 __Ne pas utiliser hors de la simulation sur VATSIM.__
 
-# Installation Facile
+## Installation facile
 
 + Faire une sauvegarde du fichier secteur `.sct` (important)
 + Ouvrir le fichier secteur qui souhaite être modifié à l'aide d'un éditeur de texte
@@ -15,7 +15,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 + Enregistrer le fichier secteur modifié<br>
 + Faire de même pour les fichiers `ARTCC.txt`, `ARTCC LOW.txt` et `REGIONS.txt` avec le nom de la section qui leur correspond
 
-# Cartes Disponibles
+## Cartes disponibles
 
 | **Config**  | LFPG_APP | LFPO_APP | LFPG_APP (+PO) |
 | ------------- | ------------- | ------------- | ------------- |
@@ -24,13 +24,13 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 | Ouest Inversé (IPGW)  | Disponible | Peu de données | Adaptée à VATSIM |
 | Est Inversé (IPOW)  | Disponible | Aucune données | Adaptée à VATSIM |
 
-# Eléments Euroscope
+## Eléments disponibles
 
-+ **GEO**<br><br>
-	&nbsp;<ins>LE BOURGET</ins>
++ <ins>**GEO**</ins><br>
+	LE BOURGET
 	+ LFPB Finale ILS **xx**
 	
-	&nbsp;<ins>CDG</ins>
+	CDG
 	+ LFPG Contraintes Orly (**xx**)
 	+ LFPG Contraintes Beauvais
 	+ LFPG Delimitations **xx**
@@ -40,12 +40,12 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ LFPG Trajectoires **xx**
 	+ LFPG Zone Paris P 23
 	
-	&nbsp;<ins>TOUSSUS</ins>
+	TOUSSUS
 	+ LFPN Finale ILS 25R
 	+ LFPN Finale RNP 07L
 	+ LFPN Finale VOR 07L
 	
-	&nbsp;<ins>ORLY</ins>
+	ORLY
 	+ LFPO Delimitations **WL / EL**
 	+ LFPO Finale ILS **xx**
 	+ LFPO Limites EGA
@@ -53,61 +53,46 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 	+ LFPO VPE Departs **07 / 24**
 	+ LFPO VPE ILS **06 / 25**
 	
-	&nbsp;<ins>VILLACOUBLAY</ins>
-	+ LFPV Finale ILS **xx**<br><br>
+	VILLACOUBLAY
+	+ LFPV Finale ILS **xx**
+	
+	BEAUVAIS
+	+ LFOB Finale ILS **xx**<br>
 
-+ **REGIONS**
++ <ins>**REGIONS**</ins>
 	+ LFPG VPE Departs **08 / 09 / 26 / 27**
 	+ LFPG VPE ILS **08R / 09L / 26L / 27R**
 	+ LFPO VPE Departs **07 / 24**
 	+ LFPO VPE ILS **06 / 25**<br><br>
 
-+ **ARTCC boundary**
++ <ins>**ARTCC boundary**</ins>
 	+ TMA LFPG TMA Paris (Toutes Config)
 	+ TMA LFPG TMA Paris (Config **xx**)
 	+ TMA LFPG Zone Beauvais
 	+ TMA LFPO Delimitations WL
 	+ TMA LFPO TMA Paris<br><br>
 
-+ **ARTCC low boundary**
++ <ins>**ARTCC low boundary**</ins>
 	+ Tower CTR LFPG CTR Paris<br>
 
 # Captures d'écran
 
-De Gaulle APP config EI :
-![EI](https://user-images.githubusercontent.com/85018190/184948069-21a6eca7-17d7-430a-ab14-77108ee150a3.png)
+**De Gaulle APP**
 
-De Gaulle APP config EL :
-![EL](https://user-images.githubusercontent.com/85018190/184948079-2dd414dc-362b-4d68-bf10-a69ec8c19102.png)
+| WL | IPGW | EL | IPOW |
+| ------------- | ------------- | ------------- | ------------- |
+| ![De Gaulle APP (WL)](https://user-images.githubusercontent.com/85018190/204157986-b11a34f2-8001-4ad6-8f09-f8af96c6e43e.jpg) | ![De Gaulle APP (IPGW)](https://user-images.githubusercontent.com/85018190/204157992-5898a274-2021-4d13-a0a0-43c26a16c050.jpg) | ![De Gaulle APP (EL)](https://user-images.githubusercontent.com/85018190/204158001-239a0aa7-6e55-4a13-959a-9a34f3e98781.jpg) | ![De Gaulle APP (IPOW)](https://user-images.githubusercontent.com/85018190/204158008-56414ae2-7268-4565-ad40-70f24c4be071.jpg) |
+<br>
 
-De Gaulle APP config WI :
-![WI](https://user-images.githubusercontent.com/85018190/184948085-7793697c-f4fb-4fc2-8d54-8ea2f000c9c2.png)
+**Orly APP**
 
-De Gaulle APP config WL :
-![WL](https://user-images.githubusercontent.com/85018190/184948102-92d24585-f0ba-44d2-8d41-5612e49e0f01.png)
+| WL | IPOW | EL | IPGW |
+| ------------- | ------------- | ------------- | ------------- |
+| ![Orly APP (WL)](https://user-images.githubusercontent.com/85018190/204158100-f58187c0-9611-49f7-b991-613e6a890527.jpg) | ![Orly APP (IPOW)](https://user-images.githubusercontent.com/85018190/204158104-1cd7df4d-4145-4bc1-848d-38e704e642ff.jpg) | ![Orly APP (EL)](https://user-images.githubusercontent.com/85018190/204158110-0c430fab-4f02-4f59-a32c-020de8584969.jpg) | ![Orly APP (IPGW)](https://user-images.githubusercontent.com/85018190/204158111-32aa8939-0397-444f-b3cd-f8a69e50dfa8.jpg) |
+<br>
 
-Orly APP config EI :
-![Orly APP (EI)](https://user-images.githubusercontent.com/85018190/184678423-5f77cf17-7bce-45de-be88-4c1754a9ce89.jpg)
+**De Gaulle APP (+ Orly)**
 
-Orly APP config EL :
-![Orly APP (EL)](https://user-images.githubusercontent.com/85018190/184678429-05d5a2af-ff7a-47fe-82f5-295fbfc50b8d.jpg)
-
-Orly APP config WI :
-![Orly APP (WI)](https://user-images.githubusercontent.com/85018190/184678436-36026714-90ac-4cfd-b692-c3dd4ca0e901.jpg)
-
-Orly APP config WL :
-![Orly APP (WL)](https://user-images.githubusercontent.com/85018190/184678446-a90da582-169c-40c4-b573-022a0aeed1fc.jpg)
-
-De Gaulle + Orly combinés config IPOW
-![EI2](https://user-images.githubusercontent.com/85018190/184948312-b2c27e36-55d1-476f-b714-5e055324ea1b.png)
-
-De Gaulle + Orly combinés config EL
-![EL2](https://user-images.githubusercontent.com/85018190/184948320-da5d29d0-39e5-405b-859a-bc030a5eee5c.png)
-
-De Gaulle + Orly combinés config IPGW
-![WI2](https://user-images.githubusercontent.com/85018190/184948336-07f880ab-fa86-4d74-a017-1e7d06a7066d.png)
-
-De Gaulle + Orly combinés config WL
-![WL2](https://user-images.githubusercontent.com/85018190/184948346-fd8f2121-dc82-48d8-b399-b680fa2021f5.png)
-
-# TODO
+| WL | IPGW | EL | IPOW |
+| ------------- | ------------- | ------------- | ------------- |
+| ![PG+PO APP (WL)](https://user-images.githubusercontent.com/85018190/204158218-22adaf74-ef30-4a0c-9d25-0c87b7c21c70.jpg) | ![PG+PO APP (IPGW)](https://user-images.githubusercontent.com/85018190/204158216-af416fbb-f298-483c-8b38-a66eada33c58.jpg) | ![PG+PO APP (EL)](https://user-images.githubusercontent.com/85018190/204158210-9db9416a-234a-45d8-97fb-5a76db28fbf9.jpg) | ![PG+PO APP (IPOW)](https://user-images.githubusercontent.com/85018190/204158202-ec684eea-5dfb-4716-89a4-6f5fefde0498.jpg) |

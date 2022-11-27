@@ -57,13 +57,13 @@ Fixes:VALPO:symbol
 Fixes:VEBEK:symbol
 Fixes:VEMIL:symbol
 Geo:LFPB Finale ILS 27:
-Geo:LFPG Contraintes Orly (WL):
+Geo:LFPG Contraintes Orly (WI):
 Geo:LFPG Delimitations WL/WI:
 Geo:LFPG Finale ILS 26L:
 Geo:LFPG Finale ILS 27R:
 Geo:LFPG Point Merge KOLIV:
 Geo:LFPG Restriction Survol Villepinte:
-Geo:LFPG Trajectoires WL:
+Geo:LFPG Trajectoires WI:
 Geo:LFPG Zone Paris P 23:
 NDBs:CVT:symbol
 NDBs:HOL:symbol
@@ -73,8 +73,12 @@ Regions:LFPG VPE Departs 26:polygon
 Regions:LFPG VPE Departs 27:polygon
 Regions:LFPG VPE ILS 26L:polygon
 Regions:LFPG VPE ILS 27R:polygon
+Runways:LFPB 03-21:centerline
+Runways:LFPB 07-25:centerline
 Runways:LFPB 09-27:centerline
 Runways:LFPG 08L-26R:centerline
+Runways:LFPG 08R-26L:centerline
+Runways:LFPG 09L-27R:centerline
 Runways:LFPG 09R-27L:centerline
 Runways:LFPO 02-20:centerline
 Runways:LFPO 06-24:centerline
