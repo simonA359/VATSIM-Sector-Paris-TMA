@@ -1,9 +1,9 @@
-**# VATSIM Sector Paris TMA**
+**## VATSIM Sector Paris TMA**
 
 Fonds de carte (expérimentaux) pour De Gaulle APP et Orly APP. <br>
 __Ne pas utiliser hors de la simulation sur VATSIM.__
 
-# Installation Facile
+## Installation facile
 
 + Faire une sauvegarde du fichier secteur `.sct` (important)
 + Ouvrir le fichier secteur qui souhaite être modifié à l'aide d'un éditeur de texte
@@ -15,7 +15,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 + Enregistrer le fichier secteur modifié<br>
 + Faire de même pour les fichiers `ARTCC.txt`, `ARTCC LOW.txt` et `REGIONS.txt` avec le nom de la section qui leur correspond
 
-# Cartes Disponibles
+## Cartes disponibles
 
 | **Config**  | LFPG_APP | LFPO_APP | LFPG_APP (+PO) |
 | ------------- | ------------- | ------------- | ------------- |
@@ -24,7 +24,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 | Ouest Inversé (IPGW)  | Disponible | Peu de données | Adaptée à VATSIM |
 | Est Inversé (IPOW)  | Disponible | Aucune données | Adaptée à VATSIM |
 
-# Eléments Euroscope
+## Eléments disponibles
 
 + **GEO**<br>
 	&nbsp;<ins>LE BOURGET</ins>
