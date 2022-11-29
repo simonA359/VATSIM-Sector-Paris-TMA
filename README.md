@@ -13,7 +13,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 + Coller le contenu qui a été copié à partir de Github
 + S'assurer que le fichier orignal a déjà été sauvegardé
 + Enregistrer le fichier secteur modifié
-+ Faire de même pour les fichiers `ARTCC.txt`, `ARTCC LOW.txt` et `REGIONS.txt` avec le nom de la section qui leur correspond
++ Faire de même pour les fichiers `ARTCC.txt`, `ARTCC LOW.txt` et `REGIONS.txt` avec le nom de la section qui correspond
 
 ## Cartes disponibles
 
@@ -27,6 +27,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 ## Eléments disponibles
 
 + <ins>**GEO**</ins><br>
+
 	LE BOURGET
 	+ LFPB Finale ILS **xx**
 	
