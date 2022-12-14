@@ -76,7 +76,7 @@ __Ne pas utiliser hors de la simulation sur VATSIM.__
 + <ins>**ARTCC low boundary**</ins>
 	+ Tower CTR LFPG CTR Paris<br>
 
-# Captures d'écran
+## Captures d'écran
 
 **De Gaulle APP**
 
