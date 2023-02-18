@@ -3,9 +3,8 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-ARTCC boundary:TMA LFPG Paris (Config EL):
+ARTCC boundary:TMA LFPG Paris (Toutes Config):
 ARTCC boundary:TMA LFPG Zone Beauvais:
-ARTCC low boundary:Tower CTR LFPG LFPG CTR Paris:
 Fixes:ABORO:symbol
 Fixes:ADADA:symbol
 Fixes:AGOPA:symbol
@@ -60,12 +59,11 @@ Fixes:VEBEK:symbol
 Geo:LFPG Landmark Points VFR:
 Geo:LFPG Tower CTR Point Merge KOLIV:
 Geo:LFPG Tower CTR Zone Paris P 23:
+Geo:LFPG Vectors (+PO) Trajectoires EL:
 Geo:LFPG Vectors Finale ILS 08R:
 Geo:LFPG Vectors Finale ILS 09L:
-Geo:LFPG Vectors Trajectoires EL:
 Geo:LFPN Vectors Finale RNP 07L:
 Geo:LFPO Vectors Finale ILS 06:
-Geo:LFPO Vectors VEBEKXE:
 Geo:LFPV Vectors Finale ILS 09:
 NDBs:CVT:symbol
 NDBs:HOL:symbol
